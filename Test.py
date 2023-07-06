@@ -35,5 +35,6 @@ net.solve_pf_dSOCP(rho = 7, niter = 20)
 net.report()
 net.check()
 
+ZM = net.ZM
 
 
